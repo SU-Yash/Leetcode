@@ -10,6 +10,6 @@ public class ValidPalindrome_680 {
         return true;
     }
     public static void main(String[] args){
-        System.out.println(validPalindrome("abccdba"));
+        System.out.println(validPalindrome("abcbea"));
     }
 }
